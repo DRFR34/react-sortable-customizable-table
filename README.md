@@ -7,7 +7,7 @@ You can easily integrate it into your project and adjust the styles to meet your
 
 <div align="center">
 <br>
-<img src="./sortable_customizable-table.gif" alt="sortable customizable table" width="500" style="display: block; margin: 20px auto 0;" />
+<img src="https://raw.githubusercontent.com/DRFR34/react-sortable-customizable-table/main/sortable_customizable-table.gif" alt="sortable customizable table" width="500" style="display: block; margin: 20px auto 0;" />
 </div>
 
 ## Installation
