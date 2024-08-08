@@ -1,9 +1,13 @@
 
-# Sortable and customizable REACT Table v2.0.2
+# Sortable and customizable REACT Table v2.0.3
 
 This React module allows you to create a data table with column headers that support ascending/descending sorting.
 The table is configurable, with customization options for column headers and colors.
 You can easily integrate it into your project and adjust the styles to meet your needs.
+
+This module is published NPM, at the following address :
+[https://www.npmjs.com/package/react-sortable-customizable-table](https://www.npmjs.com/package/react-sortable-customizable-table)
+
 
 <div align="center">
 <br>
