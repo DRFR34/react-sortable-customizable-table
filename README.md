@@ -5,7 +5,8 @@ This React module allows you to create a data table with column headers that sup
 The table is configurable, with customization options for column headers and colors.
 You can easily integrate it into your project and adjust the styles to meet your needs.
 
-This module is published NPM, at the following address :
+This module is published on NPM, at the following address :
+
 [https://www.npmjs.com/package/react-sortable-customizable-table](https://www.npmjs.com/package/react-sortable-customizable-table)
 
 
